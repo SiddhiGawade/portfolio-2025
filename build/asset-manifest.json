@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio-2025/static/css/main.05680504.css",
+    "main.js": "/portfolio-2025/static/js/main.0c407368.js",
+    "static/js/453.142a8c69.chunk.js": "/portfolio-2025/static/js/453.142a8c69.chunk.js",
+    "static/media/Achiev.png": "/portfolio-2025/static/media/Achiev.0d34027f59d594f89373.png",
+    "static/media/0.jpg": "/portfolio-2025/static/media/0.dbbc8989cd0d2d4834ef.jpg",
+    "static/media/EduAI.png": "/portfolio-2025/static/media/EduAI.0de49818939ec54902d5.png",
+    "static/media/CodeAThon.jpg": "/portfolio-2025/static/media/CodeAThon.63bfc0ecc75d6c5854b0.jpg",
+    "static/media/ecom.png": "/portfolio-2025/static/media/ecom.54a3e407b3de656e9129.png",
+    "static/media/Elocution.jpg": "/portfolio-2025/static/media/Elocution.13e2be7d15771d84f5fa.jpg",
+    "static/media/ImpactLink.png": "/portfolio-2025/static/media/ImpactLink.6ed5545770ff7e6ce02b.png",
+    "static/media/LotusInternship.jpg": "/portfolio-2025/static/media/LotusInternship.e2dac776c8bc90306ecd.jpg",
+    "static/media/ProjectComp.jpg": "/portfolio-2025/static/media/ProjectComp.b54547b62b85288b0212.jpg",
+    "static/media/paperPresentation.png": "/portfolio-2025/static/media/paperPresentation.5534a8f2a591da6dcb96.png",
+    "static/media/DBMSTopper.jpg": "/portfolio-2025/static/media/DBMSTopper.d1ebac0638c016d06c66.jpg",
+    "static/media/Siddhi_CV.pdf": "/portfolio-2025/static/media/Siddhi_CV.dcc324719c8152e6f06a.pdf",
+    "static/media/ssi.png": "/portfolio-2025/static/media/ssi.552490e7b035e6fd93be.png",
+    "static/media/quasar.jpg": "/portfolio-2025/static/media/quasar.a17f01b0c23618405726.jpg",
+    "static/media/CFTC.png": "/portfolio-2025/static/media/CFTC.bc0bfff06e33079d1214.png",
+    "static/media/pic.jpg": "/portfolio-2025/static/media/pic.f7e11510dd3fcff72a57.jpg",
+    "static/media/Siddhi_Resume.pdf": "/portfolio-2025/static/media/Siddhi_Resume.dc5ed0524871ee52a69b.pdf",
+    "static/media/linkedin.png": "/portfolio-2025/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/portfolio-2025/index.html",
+    "main.05680504.css.map": "/portfolio-2025/static/css/main.05680504.css.map",
+    "main.0c407368.js.map": "/portfolio-2025/static/js/main.0c407368.js.map",
+    "453.142a8c69.chunk.js.map": "/portfolio-2025/static/js/453.142a8c69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05680504.css",
+    "static/js/main.0c407368.js"
+  ]
+}
